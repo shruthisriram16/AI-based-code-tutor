@@ -150,7 +150,7 @@ Activate (PowerShell):
     code_tutor/
     │
     ├── streamlit_codetutor_v1.py
-    ├── review_engine.py (review_code logic)
+    ├── streamlit_v1.py (review_code logic)
     ├── requirements.txt
     └── README.md
 
